@@ -1,0 +1,13 @@
+# Ficheiros com chaves API e configurações locais
+js/config.js
+
+# Ficheiros do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Dependências (caso um dia use npm)
+node_modules/
